@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação, com foco em desenvolvimento FullStack e interesse em segurança da informação. Tenho experiência acadêmica e pessoal em C, Python, mysql, Node.js e alguns frameworks, como Django.<br><br>Tenho conhecimento em APIs REST, Git, automação de processos e fundamentos de segurança, sempre buscando aplicar boas práticas no desenvolvimento de sistemas.<br><br>Atualmente, venho me especializando em back-end e segurança de sistemas, desenvolvendo projetos acadêmicos e pessoais que me proporcionam experiência prática em programação e resolução de problemas.<br><br>Meu objetivo é ingressar no meu primeiro estágio em TI/Desenvolvimento back-end, contribuindo com soluções seguras, eficientes e escaláveis, enquanto continuo evoluindo profissionalmente.</p>
+<p align="left">Sou estudante de Sistemas de Informação, com foco em desenvolvimento fullstack e interesse em segurança da informação. Tenho experiência acadêmica e pessoal em C, Python, mysql, Node.js e alguns frameworks, como Django.<br><br>Tenho conhecimento em APIs REST, Git, automação de processos e fundamentos de segurança, sempre buscando aplicar boas práticas no desenvolvimento de sistemas.<br><br>Atualmente, venho me especializando em desenvolver projetos acadêmicos e pessoais que me proporcionam experiência prática em programação e resolução de problemas.<br><br>Meu objetivo é ingressar no meu primeiro estágio em TI/Desenvolvimento fullstack, contribuindo com soluções seguras, eficientes e escaláveis, enquanto continuo evoluindo profissionalmente.</p>
 
 ###
 
